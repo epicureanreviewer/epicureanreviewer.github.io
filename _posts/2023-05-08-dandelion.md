@@ -14,7 +14,9 @@ East Coast Oysters \
 2. Presentation - \
      Reviewer 1: \
      Reviewer 2: C
-4. Execution - C
+4. Execution - \
+    Reviewer 1: \
+    Reviewer 2: C
 
 
 House Made Ricotta \
