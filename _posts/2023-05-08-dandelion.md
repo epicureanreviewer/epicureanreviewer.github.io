@@ -4,6 +4,18 @@ title: "Dandelion"
 date: 2023-05-08 12:00:00 -0500
 ---
 
-1. Novelty
-2. Presentation
-3. Execution
+
+East Coast Oysters \
+<sub>pink grapefruit, verjus, pickled cucumber, dill oil</sub>
+
+1. Novelty - C. I originally said D, but these oysters are specifically *East Coast*
+3. Presentation - C
+4. Execution - C
+
+
+House Made Ricotta \
+<sub>dried herbs, toasted sourdough</sub>
+
+1. Novelty - B
+2. Presentation - C
+3. Execution - B
