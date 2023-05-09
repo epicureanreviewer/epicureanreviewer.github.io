@@ -6,7 +6,7 @@ description: "Assessing Dining Experiences with a Scholarly Touch"
 author: "author"
 title: "Epicurean Reviewer"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /
 
 # social
 github:
