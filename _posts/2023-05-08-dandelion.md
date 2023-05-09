@@ -10,13 +10,13 @@ East Coast Oysters \
 
 1. Novelty - \
      Reviewer 1: \
-     Reviewer 2: C. Just oysters. But specifically, *East Coast* oysters.
+     Reviewer 2: C. 
 2. Presentation - \
      Reviewer 1: \
-     Reviewer 2: C. A bit dramatic yet also unimpressive
+     Reviewer 2: C. 
 4. Execution - \
     Reviewer 1: \
-    Reviewer 2: C. bland
+    Reviewer 2: C. 
 
 
 House Made Ricotta \
