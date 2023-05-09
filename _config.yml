@@ -2,9 +2,9 @@
 name: name
 email: email
 url: url
-description: "A blog and a portfolio"
+description: "Assessing Dining Experiences with a Scholarly Touch"
 author: "author"
-title: "BlogFolio"
+title: "Epicurean Reviewer"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
